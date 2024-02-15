@@ -1,7 +1,7 @@
 # WARNING: SPOILERS
 
 # Advent of Code 2023
-My attempts for the [2023 Advent of Code puzzles](https://adventofcode.com/2023).
+My attempts for the [2023 Advent of Code puzzles](https://adventofcode.com/2023). (If I ever get around to it...)
 
 So it has been a year since I used Advent of Code 2022 to learn Rust. I have not practiced since. It is very likely that I am not using the best practices.
 
